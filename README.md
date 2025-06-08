@@ -59,9 +59,6 @@ Solving Sudoku puzzles computationally is time-consuming due to the recursive an
 - **Reduction & atomic** directives were often unsuitable due to non-aggregative logic.
 - Demonstrated **diminishing returns** with more than 4 cores due to synchronization overhead.
 
-## 📷 Screenshots
-> *Feel free to upload and link to any diagrams or sample outputs here using the `/images` folder.*
-
 ## 🚀 Future Work
 - Apply GPU acceleration using CUDA or OpenCL
 - Explore task-based parallelism or distributed approaches (e.g., MPI)
@@ -76,9 +73,5 @@ Solving Sudoku puzzles computationally is time-consuming due to the recursive an
 - Maryam Alshakhs  
 
 Supervised by: **Dr. Rabab Alkhalifa**
-
-## 📄 Report & Paper
-For full experimental results and literature review, read our paper here:  
-[📄 Final Report PDF](./FinalParallel-Group2-Team6.pdf)
 
 ---
